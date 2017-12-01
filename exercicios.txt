@@ -1,0 +1,27 @@
+Repetições
+Faça um programa que escreva cem vezes "Hello world".
+Faça um programa que escreva os números que vão de 25 até 50.
+Faça um programa que escreva somente os números ímpares que vão de 453 até 2340.
+Faça um programa que escreva somente os números pares que vão de 32 até 1334.
+Faça um programa que, dado um array de números inteiros, mostre somente os pares.
+Faça um programa que, dado um array de números inteiros, mostre somente os impares.
+Faça um programa que, dado um array de números inteiros, mostre somente os múltiplos de 5.
+Faça um programa que, dado um array de números inteiros, mostre somente os menores que 50.
+Faça um programa que, dado um array de números inteiros e um valor qualquer mostre quantos números são iguais a este valor.
+Faça um programa que, dado um array de números inteiros e um valor qualquer mostre quantos números são maiores que este valor.
+
+Processos
+Faça um programa que, dadas as coordenadas x e y de dois pontos, calcule a distância entre eles.
+Faça um programa que, dado o valor do lado de um quadrado, calcule sua diagonal e sua área.
+Faça um programa que, dado o valor do lado do raio de um círculo, calcule sua área e sua circunferência.
+Faça um programa que, dado os valores de a, b e c de uma equação do segundo grau, calcule o delta.
+Faça um programa que, dado os valores de a, b e c de uma equação do segundo grau, calcule as duas raízes.
+Faça um programa que simule um dado de 6 lados.
+Faça um programa que simule dois dados de 6 lados.
+Faça um programa que calcule a idade de uma pessoa baseada no seu ano de nascimento.
+Faça um programa que calcule quanto minutos tem um uma dada quantidade de horas.
+Faça um programa que calcule quantos segundos tem um uma dada quantidade de anos.
+
+Outros
+Faça um programa que, dada uma posição inicial x0(metros), uma velocidade constante v(metros) e um tempo t(segundos) calcule a posição x no tempo t.
+Faça um programa que, dada uma velocidade inicial v0(m/s), uma aceleração constante v(m/s^2) e um tempo t(segundos) calcule a velocidade v no tempo t.
